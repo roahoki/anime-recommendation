@@ -4,5 +4,7 @@ numpy<2
 pandas
 scikit-learn
 surprise
-jupyter
 implicit
+pyreclab
+seaborn
+matplotlib
