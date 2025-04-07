@@ -1,0 +1,8 @@
+ipykernel
+jupyter
+numpy<2
+pandas
+scikit-learn
+surprise
+jupyter
+implicit
