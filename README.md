@@ -40,5 +40,9 @@ anime-recommendation/
 ├── data_analysis.ipynb          # Análisis exploratorio del dataset
 ├── requirements.txt             # Paquetes necesarios para ejecutar los notebooks
 ├── README.md                    # Este archivo
+├── Resultados De La Evaluación De Las Predicciones.pdf # Tabla resumen de los resultados
+├── informe.pdf                    # El informe relacionado a la tarea
+
+
 
 
